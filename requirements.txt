@@ -1,0 +1,5 @@
+web3>=5.25
+aiohttp>=3.8
+numpy>=1.21
+python-dotenv>=0.19
+click>=8.0
